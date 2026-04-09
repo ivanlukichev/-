@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Играть Пасьянс preview">
+  <rect width="1200" height="630" fill="#0f2b1f"/>
+  <circle cx="1010" cy="120" r="170" fill="#f4d35e" opacity="0.14"/>
+  <circle cx="170" cy="520" r="220" fill="#8bd3a8" opacity="0.1"/>
+  <rect x="84" y="86" width="1032" height="458" rx="34" fill="#15412d" stroke="#2e6f52" stroke-width="2"/>
+  <text x="120" y="160" fill="#f4d35e" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="2">CLASSIC SOLITAIRE IN BROWSER</text>
+  <text x="120" y="252" fill="#ffffff" font-family="Arial, sans-serif" font-size="66" font-weight="700">Играть Пасьянс</text>
+  <text x="120" y="310" fill="#d6eadc" font-family="Arial, sans-serif" font-size="28">Карточный стол, быстрый старт и спокойная партия без установки.</text>
+  <rect x="120" y="366" width="176" height="52" rx="26" fill="#f4d35e"/>
+  <text x="208" y="400" text-anchor="middle" fill="#0f2b1f" font-family="Arial, sans-serif" font-size="24" font-weight="700">Играть</text>
+  <g transform="translate(760 150) rotate(-8 70 110)">
+    <rect x="14" y="44" width="126" height="178" rx="18" fill="#ffffff"/>
+    <text x="42" y="88" fill="#d7263d" font-family="Georgia, serif" font-size="34" font-weight="700">A</text>
+    <text x="42" y="128" fill="#d7263d" font-family="Arial, sans-serif" font-size="28">♥</text>
+  </g>
+  <g transform="translate(850 136) rotate(8 70 110)">
+    <rect x="14" y="44" width="126" height="178" rx="18" fill="#ffffff"/>
+    <text x="42" y="88" fill="#111111" font-family="Georgia, serif" font-size="34" font-weight="700">K</text>
+    <text x="42" y="128" fill="#111111" font-family="Arial, sans-serif" font-size="28">♠</text>
+  </g>
+  <text x="120" y="492" fill="#94b9a5" font-family="Arial, sans-serif" font-size="22">Live at играть-пасьянс.рф</text>
+</svg>
